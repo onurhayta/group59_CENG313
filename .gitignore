@@ -1,0 +1,17 @@
+data/
+*.csv
+*.parquet
+*.zip
+
+kaggle.json
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+.ipynb_checkpoints/
+
+.DS_Store
+.vscode/
+.idea/
